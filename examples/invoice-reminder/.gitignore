@@ -1,0 +1,4 @@
+# Trikeel Vault: never commit real secrets
+.env
+.env.*
+!.env.example
